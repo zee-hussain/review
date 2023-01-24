@@ -24,6 +24,11 @@
       "rating": 4,
       "text": "This is from postman",
       "id": 6
+    },
+    {
+      "text": "Ain't no way, ain't no fin way",
+      "rating": 7,
+      "id": 7
     }
   ]
 }
